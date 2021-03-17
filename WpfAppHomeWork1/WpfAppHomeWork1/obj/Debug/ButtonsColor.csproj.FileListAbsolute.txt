@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\WpfAppHomeWork1\WpfAppHomeWork1\bin\Debug\WpfAppHomeWork1.exe.config
+C:\Users\hp\source\repos\WpfAppHomeWork1\WpfAppHomeWork1\bin\Debug\WpfAppHomeWork1.exe
+C:\Users\hp\source\repos\WpfAppHomeWork1\WpfAppHomeWork1\bin\Debug\WpfAppHomeWork1.pdb
+C:\Users\hp\source\repos\WpfAppHomeWork1\WpfAppHomeWork1\obj\Debug\ButtonsColor.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\WpfAppHomeWork1\WpfAppHomeWork1\obj\Debug\View\MainWindow.g.cs
+C:\Users\hp\source\repos\WpfAppHomeWork1\WpfAppHomeWork1\obj\Debug\App.g.cs
+C:\Users\hp\source\repos\WpfAppHomeWork1\WpfAppHomeWork1\obj\Debug\WpfAppHomeWork1_MarkupCompile.cache
+C:\Users\hp\source\repos\WpfAppHomeWork1\WpfAppHomeWork1\obj\Debug\WpfAppHomeWork1_MarkupCompile.lref
+C:\Users\hp\source\repos\WpfAppHomeWork1\WpfAppHomeWork1\obj\Debug\View\MainWindow.baml
+C:\Users\hp\source\repos\WpfAppHomeWork1\WpfAppHomeWork1\obj\Debug\WpfAppHomeWork1.g.resources
+C:\Users\hp\source\repos\WpfAppHomeWork1\WpfAppHomeWork1\obj\Debug\WpfAppHomeWork1.Properties.Resources.resources
+C:\Users\hp\source\repos\WpfAppHomeWork1\WpfAppHomeWork1\obj\Debug\ButtonsColor.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\WpfAppHomeWork1\WpfAppHomeWork1\obj\Debug\ButtonsColor.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\WpfAppHomeWork1\WpfAppHomeWork1\obj\Debug\WpfAppHomeWork1.exe
+C:\Users\hp\source\repos\WpfAppHomeWork1\WpfAppHomeWork1\obj\Debug\WpfAppHomeWork1.pdb

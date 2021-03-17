@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\WpfAppHomeWork1\calk\obj\Debug\calk.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\WpfAppHomeWork1\calk\obj\Debug\MainWindow.g.cs
+C:\Users\hp\source\repos\WpfAppHomeWork1\calk\obj\Debug\App.g.cs
+C:\Users\hp\source\repos\WpfAppHomeWork1\calk\obj\Debug\calk_MarkupCompile.cache
+C:\Users\hp\source\repos\WpfAppHomeWork1\calk\obj\Debug\calk_MarkupCompile.lref
+C:\Users\hp\source\repos\WpfAppHomeWork1\calk\bin\Debug\calk.exe.config
+C:\Users\hp\source\repos\WpfAppHomeWork1\calk\bin\Debug\calk.exe
+C:\Users\hp\source\repos\WpfAppHomeWork1\calk\bin\Debug\calk.pdb
+C:\Users\hp\source\repos\WpfAppHomeWork1\calk\obj\Debug\MainWindow.baml
+C:\Users\hp\source\repos\WpfAppHomeWork1\calk\obj\Debug\calk.g.resources
+C:\Users\hp\source\repos\WpfAppHomeWork1\calk\obj\Debug\calk.Properties.Resources.resources
+C:\Users\hp\source\repos\WpfAppHomeWork1\calk\obj\Debug\calk.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\WpfAppHomeWork1\calk\obj\Debug\calk.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\WpfAppHomeWork1\calk\obj\Debug\calk.exe
+C:\Users\hp\source\repos\WpfAppHomeWork1\calk\obj\Debug\calk.pdb
